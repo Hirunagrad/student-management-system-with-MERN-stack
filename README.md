@@ -1,6 +1,6 @@
 # Student-Management-System
 
-<h3>student management system related in MERN stack.MERN stack means,</h3>
+<h3 style="color:blue">student management system related in MERN stack.MERN stack means,</h3>
 
 M-MongoDB<br>
 E-Express<br>
