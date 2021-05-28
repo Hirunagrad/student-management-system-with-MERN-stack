@@ -2,10 +2,10 @@
 
 student management system related in MERN stack.MERN stack means,
 
-M-MongoDB
-E-Express
-R-ReactJs(frondend framework)
-N-NodeJs(backend Framework)
+M-MongoDB<br>
+E-Express<br>
+R-ReactJs(frondend framework)<br>
+N-NodeJs(backend Framework)<br>
 
 # Basic Diagram
 
