@@ -44,6 +44,12 @@ connection.once('open', () => {
 
 })
 
+// acess students.js in route
+const studentRouter = require("./routes/students.js");
+//data load front end to back end
+app.use("/student",studentRouter);
+
+
 //all are ready listen the port
 app.listen(PORT, () => {
 
